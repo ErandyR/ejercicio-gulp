@@ -1,0 +1,1 @@
+function ಠ_ಠ75(ಠ_ಠ76){1==ಠ_ಠ76&&console.log("hola Mundo")}alert("Hola mundo"),alert("esto es gulp");
